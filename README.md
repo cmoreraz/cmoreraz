@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi 👋 My name is Andres Morera
+===========================
 
-<!--
-**cmoreraz/cmoreraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meet me in here to know what i'm into 🍕
+----------------------------------------
 
-Here are some ideas to get you started:
+I’m currently studying Computer Science. I think this has been my greatest experience in life. Go on and do it! I have Backend Developer Experience and I'm working as Data Engineer 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Bogota, Colombia
+* ✉️  You can contact me at [cristian.morera89@gmail.com](mailto:cristian.morera89@gmail.com)
+* 🚀  I'm currently working at [Accenture](https://www.accenture.com/co-es)
+* 🧠  I'm learning Data Engineering and Machine Learning in Python
+* ⚡  My slogan? 🌍 The world is yours! 🌍
