@@ -35,4 +35,4 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 ### Courses
 
 * 🚀 La automatización de pruebas es codificación, y para tener confianza en la automatización de pruebas, debe dominar el lenguaje que elija. Este curso le enseñará todo lo que necesita saber para escribir código de automatización de pruebas con confianza y fluidez para cualquier dominio.
- [Java para automatizados de pruebas](https://tuvecindad.co)
+ [Java para automatizadores de pruebas](https://tuvecindad.co)
