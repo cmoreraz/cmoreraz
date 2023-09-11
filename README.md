@@ -36,3 +36,8 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 * 🚀 La automatización de pruebas es codificación, y para tener confianza en la automatización de pruebas, debe dominar el lenguaje que elija. Este curso le enseñará todo lo que necesita saber para escribir código de automatización de pruebas con confianza y fluidez para cualquier dominio.
  [Java para automatizadores de pruebas](https://tuvecindad.co)
+
+ * 🚀  Desbloquee el poder de Serenity BDD para escribir pruebas automatizadas más limpias y sostenibles para aplicaciones web. Este curso lo guía a través de Serenity BDD, una biblioteca de código abierto que reduce a la mitad su base de código de prueba. Agilice su proceso de prueba, reduzca el código.
+
+  * 🚀 Prueba de API REST con Serenity BDD y RestAsured
+Aprenda a probar los servicios web en Java con este curso simple y paso a paso.
