@@ -33,6 +33,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 <a href="https://www.instagram.com/andres.morera/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cmoreraz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
 
 ### Courses
+Sección en construcción 
 
 * Como mejorar la expresion de tus ideas
 
