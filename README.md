@@ -13,6 +13,9 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 * ⚡  My slogan? 🌍 Personal branding is what they say about you when you leave the salon. 🌍
 
 ### Skills
+#### Programming
+
+#### Database
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
