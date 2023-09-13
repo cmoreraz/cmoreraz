@@ -32,7 +32,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 #### Test automation
 <p align="left">
-
+<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9455201?s=48&v=4" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
 ### Socials
