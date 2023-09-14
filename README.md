@@ -35,9 +35,9 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 #### Test automation
 <p align="left">
-<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9455201?s=48&v=4" alt="Serenity BDD" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/320565?s=48&v=4" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/983927?s=48&v=4" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9455201?s=48&v=4" alt="Serenity BDD" title="Serenity BDD" width="36" height="36" /></a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/320565?s=48&v=4" width="36" height="36" alt="MongoDB" title="MongoDB" /></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/983927?s=48&v=4" width="36" height="36" alt="Selenium" title="Selenium" /></a>
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/19369327?s=48&v=4" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
