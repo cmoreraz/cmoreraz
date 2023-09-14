@@ -45,7 +45,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 <p align="left">
 <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="42" height="42"/></a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="36" height="36"/></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" title="Git" **alt="Git" width="42" height="42"/></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" title="Git" **alt="Git" width="36" height="42"/></a>
 </p>
 
 ### Socials
