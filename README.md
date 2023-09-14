@@ -42,9 +42,9 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 #### Tools
 <p align="left">
-<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="70" height="42"/></a>
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="36" height="36"/></a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" title="Git" **alt="Git" width="50" height="36"/></a>
+<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="90" height="42"/></a>
 <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:616e6748-ad8c-48d9-ae93-e49019ed5259/Atlassian-horizontal-blue-rgb.svg?cdnVersion=1207" title="Jira" **alt="Jira" width="150" height="36"/></a>
 </p>
 
