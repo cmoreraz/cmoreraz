@@ -40,6 +40,13 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 <a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/19369327?s=48&v=4" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+#### Tools
+<p align="left">
+<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="36" height="36"/></a>
+<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="36" height="36"/></a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="36" height="35"/></a>
+</p>
+
 ### Socials
 
 <p align="left"> <a href="https://github.com/cmoreraz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
