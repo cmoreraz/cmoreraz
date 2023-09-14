@@ -1,4 +1,4 @@
-Hi 👋 My name is Andres Morera
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"> My name is Andres Morera
 ===========================
 
 Meet me in here to know what i'm into 🍕
