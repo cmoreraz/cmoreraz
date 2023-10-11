@@ -8,7 +8,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [cristian.morera89@gmail.com](mailto:cristian.morera89@gmail.com)
-* 🚀  I'm currently working at [Accenture](https://www.accenture.com/co-es)
+* 🚀  I'm currently working at [lumu technologies](https://lumu.io)
 * 🧠  I'm learning Data Engineering and Machine Learning in Python
 * ⚡  My slogan? 🌍 Personal branding is what they say about you when you leave the salon. 🌍
 
