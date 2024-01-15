@@ -1,4 +1,4 @@
-export default function AWSColorIcon(props) {
+export default function AWSColorIcon(props: any) {
   return (
     <svg
       version="1.1"
