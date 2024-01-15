@@ -1,4 +1,4 @@
-export default function RailWayColorIcon(props) {
+export default function RailWayColorIcon(props: any) {
   return (
     <svg
       fill="none"

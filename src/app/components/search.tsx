@@ -2,9 +2,9 @@
 
 import * as React from "react"
 
-import { cn } from "@/lib/utils"
-import { Input } from "@/components/ui/input"
-import { toast } from "@/components/ui/use-toast"
+import { cn } from "../../../old/lib/utils"
+import { toast } from "./ui/use-toast"
+import { Input } from "./ui/input"
 
 interface DocsSearchProps extends React.HTMLAttributes<HTMLFormElement> {}
 

@@ -5,7 +5,7 @@ import * as SheetPrimitive from "@radix-ui/react-dialog"
 import { VariantProps, cva } from "class-variance-authority"
 import { X } from "lucide-react"
 
-import { cn } from "@/lib/utils"
+import { cn } from "../../../../old/lib/utils"
 
 const Sheet = SheetPrimitive.Root
 
@@ -29,11 +29,10 @@ interface SheetPortalProps
 
 const SheetPortal = ({
   position,
-  className,
   children,
   ...props
 }: SheetPortalProps) => (
-  <SheetPrimitive.Portal className={cn(className)} {...props}>
+  <SheetPrimitive.Portal {...props}>
     <div className={portalVariants({ position })}>{children}</div>
   </SheetPrimitive.Portal>
 )

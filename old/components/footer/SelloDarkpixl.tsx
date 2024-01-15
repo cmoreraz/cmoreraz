@@ -1,6 +1,6 @@
 import Image from "next/image"
 
-export function SelloDarkPixl(props) {
+export function SelloDarkPixl(props: any) {
   return (
     <svg
       width="110"

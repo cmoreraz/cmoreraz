@@ -1,6 +1,5 @@
 import Image from "next/image"
 import Link from "next/link"
-import CardTopTools from "./SectionBento/TopTools"
 
 export default function SectionBento() {
   return (
@@ -123,7 +122,7 @@ export default function SectionBento() {
         />
       </Link>
       <div className=" grid w-full cursor-pointer grid-cols-1 gap-4 lg:col-span-2 lg:grid-cols-2">
-        <CardTopTools />
+        
         <Link
           target="_blank"
           rel="noreferrer"

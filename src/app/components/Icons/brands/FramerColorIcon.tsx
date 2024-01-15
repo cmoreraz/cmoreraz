@@ -1,4 +1,4 @@
-export default function FramerColorIcon(props) {
+export default function FramerColorIcon(props: any) {
   return (
     <svg
       viewBox="0 0 256 384"

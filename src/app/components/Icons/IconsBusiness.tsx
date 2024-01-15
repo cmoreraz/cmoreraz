@@ -1,4 +1,4 @@
-export function GoogleIcon(props) {
+export function GoogleIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -15,7 +15,7 @@ export function GoogleIcon(props) {
   )
 }
 
-export function HarvardIcon(props) {
+export function HarvardIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -188,7 +188,7 @@ export function HarvardIcon(props) {
   )
 }
 
-export function HackerRankIcon(props) {
+export function HackerRankIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -205,7 +205,7 @@ export function HackerRankIcon(props) {
   )
 }
 
-export function AWSIcon(props) {
+export function AWSIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -231,7 +231,7 @@ export function AWSIcon(props) {
   )
 }
 
-export function CiscoIcon(props) {
+export function CiscoIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -247,7 +247,7 @@ export function CiscoIcon(props) {
   )
 }
 
-export function LinkedinIcon(props) {
+export function LinkedinIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

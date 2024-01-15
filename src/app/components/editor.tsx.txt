@@ -11,11 +11,11 @@ import TextareaAutosize from "react-textarea-autosize"
 import * as z from "zod"
 
 import "@/styles/editor.css"
-import { cn } from "@/lib/utils"
+import { cn } from "../../../old/lib/utils"
 import { postPatchSchema } from "@/lib/validations/post"
 import { buttonVariants } from "@/components/ui/button"
 import { toast } from "@/components/ui/use-toast"
-import { Icons } from "@/components/icons"
+import { Icons } from "./icons"
 
 interface EditorProps {
   post: Pick<Post, "id" | "title" | "content" | "published">

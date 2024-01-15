@@ -1,4 +1,4 @@
-export default function StripeColorIcon(props) {
+export default function StripeColorIcon(props: any) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"

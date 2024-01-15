@@ -1,4 +1,4 @@
-export default function MedusaColorIcon(props) {
+export default function MedusaColorIcon(props: any) {
   return (
     <svg
       viewBox="0 0 256 277"

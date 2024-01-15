@@ -1,9 +1,9 @@
 import * as React from "react"
 
-import { cn } from "@/lib/utils"
-import { LogoDarkPixl, SelloDarkPixl } from "./footer/SelloDarkpixl"
+import { cn } from "../../../old/lib/utils"
 import { Flag } from "./Icons/flags"
 import { FigmaIcon } from "lucide-react"
+import { LogoDarkPixl, SelloDarkPixl } from "../../../old/components/footer/SelloDarkpixl"
 
 export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
   return (

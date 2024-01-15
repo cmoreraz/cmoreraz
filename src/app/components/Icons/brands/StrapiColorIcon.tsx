@@ -1,4 +1,4 @@
-export default function StripeColorIcon(props) {
+export default function StripeColorIcon(props: any) {
   return (
     <svg
       viewBox="0 0 256 256"

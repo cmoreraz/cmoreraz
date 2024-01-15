@@ -2,9 +2,9 @@
 
 import * as React from "react"
 
-import { TableOfContents } from "@/lib/toc"
-import { cn } from "@/lib/utils"
-import { useMounted } from "@/hooks/use-mounted"
+import { cn } from "../../../old/lib/utils"
+import { TableOfContents } from "../../../old/lib/toc"
+import { useMounted } from "../../../old/hooks/use-mounted"
 
 interface TocProps {
   toc: TableOfContents

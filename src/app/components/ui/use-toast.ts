@@ -1,7 +1,8 @@
 // Inspired by react-hot-toast library
+import { ToastProps } from "@radix-ui/react-toast"
 import * as React from "react"
+import { ToastActionElement } from "./toast"
 
-import { ToastActionElement, type ToastProps } from "@/components/ui/toast"
 
 const TOAST_LIMIT = 1
 const TOAST_REMOVE_DELAY = 1000000

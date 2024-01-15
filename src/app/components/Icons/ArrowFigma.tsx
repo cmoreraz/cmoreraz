@@ -1,4 +1,4 @@
-export default function ArrowFigma(props) {
+export default function ArrowFigma(props: any) {
   return (
     <svg
       width="37"

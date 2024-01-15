@@ -1,4 +1,4 @@
-export default function VercelColorIcon(props) {
+export default function VercelColorIcon(props: any) {
   return (
     <svg
       viewBox="0 0 256 222"

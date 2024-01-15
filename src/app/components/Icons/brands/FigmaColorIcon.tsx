@@ -1,4 +1,4 @@
-export default function FigmaColorIcon(props) {
+export default function FigmaColorIcon(props: any) {
   return (
     <svg
       width="54"
