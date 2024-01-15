@@ -1,30 +1,15 @@
 /* eslint-disable tailwindcss/enforces-negative-arbitrary-values */
 import Link from "next/link"
 
-import { siteConfig } from "@/config/site"
+
 import { cn, formatDate } from "@/lib/utils"
 import { buttonVariants } from "@/components/ui/button"
 import Image from "next/image"
 import { allPosts } from "@/.contentlayer/generated"
 import { compareDesc } from "date-fns"
 import { ExternalLinkIcon } from "lucide-react"
-import ArrowFigma from "@/components/Icons/ArrowFigma"
 import { Barlow } from "next/font/google"
-import {
-  AWSIcon,
-  CiscoIcon,
-  GoogleIcon,
-  HackerRankIcon,
-  HarvardIcon,
-  LinkedinIcon,
-} from "@/components/Icons/IconsBusiness"
 
-import HeaderImage from "@/components/Home/HeaderImage"
-import SectionFrameworksNStak from "@/components/Home/SectionFrameworksNStack"
-import SectionListOfProjects from "@/components/Home/SectionListOfProjects"
-import SectionOpenSource from "@/components/Home/SectionOpenSource"
-import SectionBento from "@/components/Home/SectionBento"
-import SectionInspiration from "@/components/Home/SectionInspiration"
 
 // If loading a variable font, you don't need to specify the font weight
 const barlow = Barlow({ subsets: ["latin"], weight: ["600"] })
@@ -148,7 +133,7 @@ export default async function IndexPage() {
               </a>
               <a
                 className="rounded-lg p-2 hover:bg-white/25"
-                href="https://github.com/richardnarvaez"
+                href="https://github.com/cmoreraz"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -173,7 +158,7 @@ export default async function IndexPage() {
             <div className="flex gap-4">
               <a
                 className="rounded-lg p-2 hover:bg-white/25"
-                href="https://www.linkedin.com/in/richardvnarvaez"
+                href="https://www.linkedin.com/in/cmoreraz"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -280,7 +265,7 @@ export default async function IndexPage() {
         </div>
         <div className="space-x-4 pt-8">
           <Link
-            href="https://www.linkedin.com/in/richardvnarvaez/details/certifications/"
+            href="https://www.linkedin.com/in/cmoreraz/details/certifications/"
             target="_blank"
             rel="noreferrer"
             className={cn(buttonVariants({ size: "lg" }))}
@@ -289,7 +274,7 @@ export default async function IndexPage() {
           </Link>
 
           <Link
-            href={"https://github.com/richardnarvaez"}
+            href={"https://github.com/cmoreraz"}
             target="_blank"
             rel="noreferrer"
             className={cn(buttonVariants({ variant: "outline", size: "lg" }))}

@@ -29,7 +29,7 @@ export default function HeaderImage() {
         }}
       /> */}
       <Image
-        src="/images/home/bg-header.jpg"
+        src="/images/home/bg-header.jpeg"
         width={1920}
         height={720}
         // placeholder="blur"

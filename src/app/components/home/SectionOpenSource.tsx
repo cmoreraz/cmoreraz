@@ -1,4 +1,4 @@
-import { siteConfig } from "@/config/site"
+import { siteConfig } from "@/app/config/site"
 import Link from "next/link"
 
 export default function SectionOpenSource() {

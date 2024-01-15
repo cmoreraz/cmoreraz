@@ -1,7 +1,7 @@
-import { siteConfig } from "@/config/site"
+
 import Link from "next/link"
-import { HoverCard, HoverCardContent, HoverCardTrigger } from "../ui/hover-card"
-import { Avatar, AvatarFallback, AvatarImage } from "../ui/avatar"
+import { HoverCard, HoverCardContent, HoverCardTrigger } from "../../../src/app/components/ui/hover-card"
+import { Avatar, AvatarFallback, AvatarImage } from "../../../src/app/components/ui/avatar"
 
 export default function SectionInspiration() {
   return (

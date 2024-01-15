@@ -1,4 +1,5 @@
-import { SiteConfig } from 'types';
+import { SiteConfig } from "../../../old/types";
+
 
 
 export const siteConfig: SiteConfig = {
@@ -10,6 +11,6 @@ export const siteConfig: SiteConfig = {
   ogImage: "https://richard.darkpixl.com/og.jpg",
   links: {
     twitter: "https://twitter.com/richardvnarvaez",
-    github: "https://github.com/richardnarvaez/richardnarvaez",
+    github: "https://github.com/cmoreraz/cmoreraz",
   },
 }

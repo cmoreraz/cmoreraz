@@ -128,7 +128,7 @@ export default function Home() {
                 </a>
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://github.com/richardnarvaez"
+                  href="https://github.com/cmoreraz"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -153,7 +153,7 @@ export default function Home() {
               <div className="flex gap-4">
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://www.linkedin.com/in/richardvnarvaez"
+                  href="https://www.linkedin.com/in/cmoreraz"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -260,7 +260,7 @@ export default function Home() {
           </div>
           <div className="space-x-4 pt-8">
             <Link
-              href="https://www.linkedin.com/in/richardvnarvaez/details/certifications/"
+              href="https://www.linkedin.com/in/cmoreraz/"
               target="_blank"
               rel="noreferrer"
               className={cn(buttonVariants({ size: "lg" }))}
@@ -269,7 +269,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href={"https://github.com/richardnarvaez"}
+              href={"https://github.com/cmoreraz"}
               target="_blank"
               rel="noreferrer"
               className={cn(buttonVariants({ variant: "outline", size: "lg" }))}

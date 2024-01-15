@@ -1,28 +1,23 @@
 "use client"
-import StripeColorIcon from "@/components/Icons/brands/StripeColorIcon"
-import StrapiColorIcon from "@/components/Icons/brands/StrapiColorIcon"
-import {
-  Dialog,
-  DialogContent,
-  DialogDescription,
-  DialogHeader,
-  DialogTitle,
-  DialogTrigger,
-} from "@/components/ui/dialog"
-import { LinkIcon } from "lucide-react"
+
+
 import Image from "next/image"
-import FigmaColorIcon from "@/components/Icons/brands/FigmaColorIcon"
-import RailWayColorIcon from "@/components/Icons/brands/RailWayColorIcon"
-import AWSColorIcon from "@/components/Icons/brands/AWSColorIcon"
-import PinterestColorIcon from "@/components/Icons/brands/PinterestColorIcon"
-import OpenAIColorIcon from "@/components/Icons/brands/OpenAIColorIcon"
-import MedusaColorIcon from "@/components/Icons/brands/MedusaColorIcon"
-import FramerColorIcon from "@/components/Icons/brands/FramerColorIcon"
-import VercelColorIcon from "@/components/Icons/brands/VercelColorIcon"
-import N8NColorIcon from "@/components/Icons/brands/N8NColorIcon"
-import SplineColorIcon from "@/components/Icons/brands/SplineColorIcon"
-import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
+
 import Link from "next/link"
+import RailWayColorIcon from "../../Icons/brands/RailWayColorIcon"
+import FigmaColorIcon from "../../Icons/brands/FigmaColorIcon"
+import OpenAIColorIcon from "../../Icons/brands/OpenAIColorIcon"
+import VercelColorIcon from "../../Icons/brands/VercelColorIcon"
+import AWSColorIcon from "../../Icons/brands/AWSColorIcon"
+import N8NColorIcon from "../../Icons/brands/N8NColorIcon"
+import StrapiColorIcon from "../../Icons/brands/StrapiColorIcon"
+import SplineColorIcon from "../../Icons/brands/SplineColorIcon"
+import StripeColorIcon from "../../Icons/brands/StrapiColorIcon"
+import MedusaColorIcon from "../../Icons/brands/MedusaColorIcon"
+import FramerColorIcon from "../../Icons/brands/FramerColorIcon"
+import PinterestColorIcon from "../../Icons/brands/PinterestColorIcon"
+import { Dialog, DialogContent, DialogTrigger } from "../../ui/dialog"
+import { Tabs, TabsContent, TabsList, TabsTrigger } from "../../ui/tabs"
 
 const itemsGeneral = [
   {
@@ -346,7 +341,7 @@ const ItemTop = ({ item }: any) => {
       <div>
         {item.url && (
           <Link href={item.url} target="_blank">
-            <LinkIcon className="text-white/70" />
+  
           </Link>
         )}
       </div>
