@@ -51,18 +51,20 @@ export default function Home() {
               <h1
                 className={
                   //barlow.className +
-                  " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-8xl "
+                  " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
                 }
               >
-                <span>CREATIVE</span> <span>DEVELOPER</span> <span>SINCE</span>
+                <span>SOFTWARE</span> 
+                <span>DEVELOPER</span> 
+                <span>SINCE</span>
                 <span className="text-[#FF512F]">2016</span>
               </h1>
               {/* SOFTWARE ENGINEER */}
               <h3 className="flex flex-col text-center text-lg">
-                Over the last 5 years, I&apos;ve empowered 9+ companies
-                <span className="hidden max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-8 md:block">
-                  Developing user-centric interfaces that captivate and engage
-                  audiences and make a real impact.
+                En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
+                <span className="hidden max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
+                  Desarrollando interfaces centradas en el usuario, 
+                  servicios REST, automatizando procesos y pruebas de software.
                 </span>
               </h3>
               <div className="mt-8 flex gap-4">
