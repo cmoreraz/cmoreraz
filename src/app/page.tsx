@@ -48,7 +48,7 @@ export default function Home() {
                 <span>DESDE</span> 
                 <span className="text-[#FF512F]">2016</span>
               </h1>
-              {/* SOFTWARE ENGINEER */}
+              
               <h3 className="flex flex-col text-center text-lg">
                 En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
                 <span className="hidden max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
