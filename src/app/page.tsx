@@ -53,7 +53,7 @@ export default function Home() {
                 En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
                 <span className="hidden max-w-[42rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
                   Desarrollando interfaces centradas en el usuario, 
-                  servicios REST, automatizando procesos y pruebas de software.
+                  servicios REST, automatización procesos y pruebas de software.
                 </span>
               </h3>
               <div className="mt-8 flex gap-4">
