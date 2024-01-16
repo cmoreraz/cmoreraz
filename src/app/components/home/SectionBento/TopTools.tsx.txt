@@ -245,7 +245,7 @@ export default function CardTopTools() {
               <div className="m-4 mx-auto flex h-24 w-24 items-center justify-center rounded-3xl bg-white">
                 <Image
                   alt="Logo Richard Vinueza"
-                  src={"/images/logo-richard.png"}
+                  src={"./images/logo-richard.png"}
                   width={100}
                   height={100}
                 />
