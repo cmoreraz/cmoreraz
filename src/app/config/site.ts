@@ -10,7 +10,7 @@ export const siteConfig: SiteConfig = {
   url: "https://richard.darkpixl.com",
   ogImage: "https://richard.darkpixl.com/og.jpg",
   links: {
-    twitter: "https://twitter.com/richardvnarvaez",
+    twitter: "https://twitter.com/morerazubieta",
     github: "https://github.com/cmoreraz/cmoreraz",
   },
 }

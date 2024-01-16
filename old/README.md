@@ -34,7 +34,7 @@ v.2.1.1
 </table>
 
 [website]: https://darkpixl.com
-[twitter]: https://twitter.com/richardvnarvaez
+[twitter]: https://twitter.com/morerazubieta
 [youtube]: https://youtube.com/richardvnarvaez
 [instagram]: https://instagram.com/richardvnarvaez
 [linkedin]: https://linkedin.com/in/richardvnarvaez

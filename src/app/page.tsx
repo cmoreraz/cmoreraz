@@ -82,7 +82,7 @@ export default function Home() {
                 </a>
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://twitter.com/richardvnarvaez"
+                  href="https://twitter.com/morerazubieta"
                   target="_blank"
                   rel="noreferrer"
                 >
