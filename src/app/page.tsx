@@ -13,18 +13,13 @@ import {
 } from "./components/Icons/IconsBusiness";
 import { cn } from "../../old/lib/utils";
 import { buttonVariants } from "./components/ui/button";
-import { AwsIcon } from "./components/Icons/awsIcon";
-import { NextIcon } from "./components/Icons/nextIcon";
-import { VercelIcon } from "./components/Icons";
+import { FigmaIcon, VercelIcon, NextIcon, AwsIcon } from "./components/Icons";
 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
       <div>
-        {/* JUST IN DEV */}
-        {/* <p className="fixed z-50 m-6 rounded-full bg-red-500 px-6 py-2 text-xs font-semibold text-white">
-        In Dev
-      </p> */}
+   
         <section
           id="header"
           className="container flex h-screen max-w-[64rem] flex-col items-center justify-center gap-4 text-center"
@@ -35,14 +30,8 @@ export default function Home() {
               <AwsIcon width={120} height={120} />
               <NextIcon width={120} height={120} />
               <VercelIcon width={120} height={120} />
+              <FigmaIcon width={120} height={120} />
 
-              <Image
-                src="./images/figma_icon.png"
-                alt="Blur"
-                className="absolute -right-20 top-16 z-0 w-24 md:right-0 md:top-16 "
-                width={120}
-                height={120}
-              />
               <h2 className="relative rounded-md bg-gray-50 px-4 py-2 text-center font-semibold text-black">
                 <ArrowFigma className="absolute -left-8 -top-6" />
                 <span>Cristian Andres Morera</span>
@@ -56,7 +45,7 @@ export default function Home() {
               >
                 <span>SOFTWARE</span> 
                 <span>DEVELOPER</span> 
-                <span>SINCE</span>
+               /** <span>DESDE</span> */
                 <span className="text-[#FF512F]">2016</span>
               </h1>
               {/* SOFTWARE ENGINEER */}

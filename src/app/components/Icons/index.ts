@@ -1,3 +1,4 @@
-export * from './awsIcon';
-export * from './nextIcon';
-export * from './vercelIcon';
+export {AwsIcon} from './awsIcon';
+export {NextIcon} from './nextIcon';
+export {VercelIcon} from './vercelIcon';
+export {FigmaIcon} from './figmaIcon';
