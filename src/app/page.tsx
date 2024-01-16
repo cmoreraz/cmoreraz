@@ -58,7 +58,7 @@ export default function Home() {
               />
               <h2 className="relative rounded-md bg-gray-50 px-4 py-2 text-center font-semibold text-black">
                 <ArrowFigma className="absolute -left-8 -top-6" />
-                <span>Andres Morera</span>
+                <span>Cristian Andres Morera</span>
               </h2>
 
               <h1
