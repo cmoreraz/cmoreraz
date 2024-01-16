@@ -15,6 +15,7 @@ import { cn } from "../../old/lib/utils";
 import { buttonVariants } from "./components/ui/button";
 import { AwsIcon } from "./components/Icons/awsIcon";
 import { NextIcon } from "./components/Icons/nextIcon";
+import { VercelIcon } from "./components/Icons";
 
 export default function Home() {
   return (
@@ -33,14 +34,8 @@ export default function Home() {
               
               <AwsIcon width={120} height={120} />
               <NextIcon width={120} height={120} />
+              <VercelIcon width={120} height={120} />
 
-              <Image
-                src="./images/vercel_icon.png"
-                alt="Blur"
-                className="absolute -left-8 top-16 z-0 w-16 md:left-32 md:top-16 "
-                width={120}
-                height={120}
-              />
               <Image
                 src="./images/figma_icon.png"
                 alt="Blur"
