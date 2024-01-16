@@ -90,7 +90,7 @@ const jsonLd = {
     siteConfig.links.twitter,
     siteConfig.links.github,
     "https://dribbble.com/RichardNarvaez",
-    "https://www.figma.com/@richardvnarvaez",
+    "https://www.figma.com/@cmoreraz",
   ],
 }
 export default function RootLayout({ children }: RootLayoutProps) {

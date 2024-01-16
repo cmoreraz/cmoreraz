@@ -59,7 +59,7 @@ export default function Home() {
               <div className="mt-8 flex gap-4">
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://www.figma.com/@richardvnarvaez"
+                  href="https://www.figma.com/@cmoreraz"
                   target="_blank"
                   rel="noreferrer"
                 >
