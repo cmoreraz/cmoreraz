@@ -115,7 +115,7 @@ export default function Home() {
                 </a>
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://github.com/cmoreraz"
+                  href={process.env.URL_GITHUB}
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -256,7 +256,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href={"https://github.com/cmoreraz"}
+              href={process.env.URL_GITHUB}
               target="_blank"
               rel="noreferrer"
               className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
