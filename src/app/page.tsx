@@ -45,7 +45,7 @@ export default function Home() {
               >
                 <span>SOFTWARE</span> 
                 <span>DEVELOPER</span> 
-               /** <span>DESDE</span> */
+                <span>DESDE</span> 
                 <span className="text-[#FF512F]">2016</span>
               </h1>
               {/* SOFTWARE ENGINEER */}
