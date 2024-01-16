@@ -89,7 +89,7 @@ const jsonLd = {
     "https://www.linkedin.com/in/richardvnarvaez/",
     siteConfig.links.twitter,
     siteConfig.links.github,
-    "https://dribbble.com/RichardNarvaez",
+    "https://dribbble.com/cmoreraz",
     "https://www.figma.com/@cmoreraz",
   ],
 }

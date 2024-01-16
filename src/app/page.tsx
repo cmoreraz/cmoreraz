@@ -173,7 +173,7 @@ export default function Home() {
 
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://dribbble.com/RichardNarvaez"
+                  href="https://dribbble.com/cmoreraz"
                   target="_blank"
                   rel="noreferrer"
                 >
