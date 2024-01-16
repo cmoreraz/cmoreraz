@@ -16,7 +16,7 @@ export default function SectionBento() {
         <Image
           alt=""
           className="absolute inset-0 h-full w-full object-cover transition-transform ease-out group-hover:scale-110 group-hover:blur-sm"
-          src={"/images/home/resume.webp"}
+          src={"./images/home/resume.webp"}
           width={700}
           height={900}
         />
@@ -30,7 +30,7 @@ export default function SectionBento() {
             <div className="flex items-center gap-3 p-2">
               <Image
                 className="h-12 w-12"
-                src={"/images/GDrive-logo.png"}
+                src={"./images/GDrive-logo.png"}
                 width={150}
                 height={150}
                 alt=""
@@ -52,7 +52,7 @@ export default function SectionBento() {
           <Image
             alt=""
             className="absolute -right-[270px] h-full w-full  rotate-45 object-cover opacity-0 transition-all duration-300 ease-out group-hover:right-0 group-hover:rotate-0 group-hover:opacity-100"
-            src={"/images/home/me.webp"}
+            src={"./images/home/me.webp"}
             width={700}
             height={900}
           />
@@ -61,7 +61,7 @@ export default function SectionBento() {
       <div className="group relative flex w-full flex-col items-center justify-center overflow-hidden rounded-xl border-0 border-white p-4 font-bold lg:col-span-2">
         <Image
           alt="Logo Richard Vinueza"
-          src={"/images/blog/huma/huma-bg.jpg"}
+          src={"./images/blog/huma/huma-bg.jpg"}
           width={960}
           height={540}
           className="absolute top-0 h-full w-full scale-105 opacity-75 blur-md transition-all  group-hover:scale-125 group-hover:blur-lg "
@@ -72,7 +72,7 @@ export default function SectionBento() {
         <div className="z-10 m-4 mx-auto flex h-24 w-24 items-center justify-center overflow-hidden rounded-3xl border-4 border-white bg-white">
           <Image
             alt="Logo Richard Vinueza"
-            src={"/images/blog/huma/huma-app-icon.jpg"}
+            src={"./images/blog/huma/huma-app-icon.jpg"}
             width={100}
             height={100}
           />
@@ -116,7 +116,7 @@ export default function SectionBento() {
         <Image
           alt=""
           className="absolute -bottom-8 -right-8 w-full  -rotate-12 scale-125 transition-transform ease-out group-hover:scale-150"
-          src={"/images/IconsTech.png"}
+          src={"./images/IconsTech.png"}
           width={800}
           height={800}
         />

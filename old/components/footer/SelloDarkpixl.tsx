@@ -83,7 +83,7 @@ export function SelloDarkPixl(props: any) {
 export function LogoDarkPixl() {
   return (
     <Image
-      src="/images/darkpixl-sm.png"
+      src="./images/darkpixl-sm.png"
       alt="Blur"
       className="absolute inset-0 m-auto"
       width={40}

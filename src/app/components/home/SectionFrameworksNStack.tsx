@@ -119,7 +119,7 @@ export default function SectionFrameworksNStak() {
           width={920}
           height={128}
           className="z-10  md:max-w-lg "
-          src={"/images/DockUsedApps.png"}
+          src={"./images/DockUsedApps.png"}
           alt="Dock Used Apps"
         />
       </div>
