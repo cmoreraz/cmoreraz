@@ -248,11 +248,12 @@ export default function Home() {
             <LinkedinIcon />
           </div>
           <div className="space-x-4 pt-8">
+
             <Link
               href={'https://www.linkedin.com/in/cmoreraz'}
               target="_blank"
               rel="noreferrer"
-              className={cn(buttonVariants({ size: "lg" }))}
+              className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
             >
               See on Linkedin
             </Link>
@@ -265,6 +266,7 @@ export default function Home() {
             >
               GitHub
             </Link>
+
           </div>
         </section>
       </div>
