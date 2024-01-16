@@ -249,7 +249,7 @@ export default function Home() {
           </div>
           <div className="space-x-4 pt-8">
             <Link
-              href={process.env.URL_LINKEDIN}
+              href={process.env.URL_LINKEDIN+''}
               target="_blank"
               rel="noreferrer"
               className={cn(buttonVariants({ size: "lg" }))}
@@ -258,7 +258,7 @@ export default function Home() {
             </Link>
 
             <Link
-              href={process.env.URL_GITHUB}
+              href={process.env.URL_GITHUB+''}
               target="_blank"
               rel="noreferrer"
               className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
