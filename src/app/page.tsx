@@ -14,23 +14,32 @@ import {
 import { cn } from "../../old/lib/utils";
 import { buttonVariants } from "./components/ui/button";
 import { FigmaIcon, VercelIcon, NextIcon, AwsIcon } from "./components/Icons";
+import { NavBar } from "./components/ui/navbar";
 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
+
       <div>
-   
+
+        <div className="relative z-20 flex w-full flex-col  items-center justify-center gap-4">
+
+          <NavBar />
+        </div>
+
+
         <section
           id="header"
           className="container flex h-screen max-w-[64rem] flex-col items-center justify-center gap-4 text-center"
         >
           <div className="z-10  w-full max-w-5xl">
             <div className="relative z-20 flex w-full flex-col  items-center justify-center gap-4">
-              
+
               <AwsIcon width={120} height={120} />
               <NextIcon width={120} height={120} />
               <VercelIcon width={120} height={120} />
               <FigmaIcon width={120} height={120} />
+
 
               <h2 className="relative rounded-md bg-gray-50 px-4 py-2 text-center font-semibold text-black">
                 <ArrowFigma className="absolute -left-8 -top-6" />
@@ -43,19 +52,20 @@ export default function Home() {
                   " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
                 }
               >
-                <span>SOFTWARE</span> 
-                <span>DEVELOPER</span> 
-                <span>DESDE</span> 
+                <span>SOFTWARE</span>
+                <span>DEVELOPER</span>
+                <span>DESDE</span>
                 <span className="text-[#FF512F]">2016</span>
               </h1>
-              
+
               <h3 className="flex flex-col text-center text-lg">
                 En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
                 <span className="hidden max-w-[39rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
-                  Desarrollando interfaces centradas en el usuario, 
+                  Desarrollando interfaces centradas en el usuario,
                   creando servicios REST, automatización procesos y pruebas de software.
                 </span>
               </h3>
+
               <div className="mt-8 flex gap-4">
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
@@ -80,6 +90,7 @@ export default function Home() {
                     />
                   </svg>
                 </a>
+
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
                   href="https://twitter.com/morerazubieta"
@@ -104,6 +115,7 @@ export default function Home() {
                     <path d="M161.014,464.013c193.208,0 298.885,-160.071 298.885,-298.885c0,-4.546 0,-9.072 -0.307,-13.578c20.558,-14.871 38.305,-33.282 52.408,-54.374c-19.171,8.495 -39.51,14.065 -60.334,16.527c21.924,-13.124 38.343,-33.782 46.182,-58.102c-20.619,12.235 -43.18,20.859 -66.703,25.498c-19.862,-21.121 -47.602,-33.112 -76.593,-33.112c-57.682,0 -105.145,47.464 -105.145,105.144c0,8.002 0.914,15.979 2.722,23.773c-84.418,-4.231 -163.18,-44.161 -216.494,-109.752c-27.724,47.726 -13.379,109.576 32.522,140.226c-16.715,-0.495 -33.071,-5.005 -47.677,-13.148l0,1.331c0.014,49.814 35.447,93.111 84.275,102.974c-15.464,4.217 -31.693,4.833 -47.431,1.802c13.727,42.685 53.311,72.108 98.14,72.95c-37.19,29.227 -83.157,45.103 -130.458,45.056c-8.358,-0.016 -16.708,-0.522 -25.006,-1.516c48.034,30.825 103.94,47.18 161.014,47.104" />
                   </svg>
                 </a>
+
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
                   href={'https://github.com/cmoreraz'}
@@ -171,6 +183,8 @@ export default function Home() {
                   </svg>
                 </a>
 
+
+
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
                   href="https://dribbble.com/cmoreraz"
@@ -236,6 +250,7 @@ export default function Home() {
             <CiscoIcon />
             <LinkedinIcon />
           </div>
+
           <div className="space-x-4 pt-8">
 
             <Link
