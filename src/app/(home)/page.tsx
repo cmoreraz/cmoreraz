@@ -78,7 +78,14 @@ export default function Home() {
 
               </h1>
 
-              <br></br>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
+              <br/>
 
               <h3 className="flex flex-col text-center text-lg">
                 En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
