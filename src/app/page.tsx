@@ -1,6 +1,5 @@
 import Image from "next/image";
 import Link from "next/link";
-import ArrowFigma from "./components/Icons/ArrowFigma";
 import HeaderImage from "./components/home/HeaderImage";
 import { siteConfig } from "./config/site";
 import {
@@ -20,7 +19,8 @@ import {
   AwsIcon,
   FigmaSvg,
   TwitterIcon,
-  GithubSvg
+  GithubSvg,
+  ArrowFigma
 } from "./components/Icons";
 import { NavBar } from "./components/ui/navbar/navbar";
 
@@ -77,7 +77,7 @@ export default function Home() {
                 <TwitterIcon />
                 <GithubSvg />
               </div>
-              
+
               <div className="flex gap-4">
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
