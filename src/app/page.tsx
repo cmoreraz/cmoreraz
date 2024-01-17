@@ -13,8 +13,8 @@ import {
 } from "./components/Icons/IconsBusiness";
 import { cn } from "../../old/lib/utils";
 import { buttonVariants } from "./components/ui/button";
-import { FigmaIcon, VercelIcon, NextIcon, AwsIcon } from "./components/Icons";
-import { NavBar } from "./components/ui/navbar";
+import { FigmaIcon, VercelIcon, NextIcon, AwsIcon, FigmaSvg, TwitterIcon } from "./components/Icons";
+import { NavBar } from "./components/ui/navbar/navbar";
 
 export default function Home() {
   return (
@@ -48,7 +48,6 @@ export default function Home() {
 
               <h1
                 className={
-                  //barlow.className +
                   " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
                 }
               >
@@ -67,54 +66,8 @@ export default function Home() {
               </h3>
 
               <div className="mt-8 flex gap-4">
-                <a
-                  className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://www.figma.com/@cmoreraz"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="26"
-                    height="26"
-                    viewBox="0 0 26 26"
-                    fill="none"
-                  >
-                    <title>Figma</title>
-                    <path
-                      d="M13 1.625H9.20829C7.11421 1.625 5.41663 3.32259 5.41663 5.41667C5.41663 7.51075 7.11421 9.20833 9.20829 9.20833M13 1.625V9.20833M13 1.625H16.7916C18.8857 1.625 20.5833 3.32259 20.5833 5.41667C20.5833 7.51075 18.8857 9.20833 16.7916 9.20833M13 9.20833H9.20829M13 9.20833V16.7917M13 9.20833H16.7916M9.20829 9.20833C7.11421 9.20833 5.41663 10.9059 5.41663 13C5.41663 15.0941 7.11421 16.7917 9.20829 16.7917M13 16.7917H9.20829M13 16.7917V20.5833C13 22.6774 11.3024 24.375 9.20829 24.375C7.11421 24.375 5.41663 22.6774 5.41663 20.5833C5.41663 18.4893 7.11421 16.7917 9.20829 16.7917M16.7916 9.20833C18.8857 9.20833 20.5833 10.9059 20.5833 13C20.5833 15.0941 18.8857 16.7917 16.7916 16.7917C14.6975 16.7917 13 15.0941 13 13C13 10.9059 14.6975 9.20833 16.7916 9.20833Z"
-                      stroke="#fff"
-                      strokeWidth="1.6"
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                    />
-                  </svg>
-                </a>
-
-                <a
-                  className="rounded-lg p-2 hover:bg-white/25"
-                  href="https://twitter.com/morerazubieta"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  <svg
-                    height="24px"
-                    width="24px"
-                    version="1.1"
-                    viewBox="0 0 512 512"
-                    fill="currentColor"
-                  >
-                    <title>Twitter | X</title>
-                    <rect
-                      height="400"
-                      style={{ fill: "none" }}
-                      width="400"
-                      x="56"
-                      y="56"
-                    />
-                    <path d="M161.014,464.013c193.208,0 298.885,-160.071 298.885,-298.885c0,-4.546 0,-9.072 -0.307,-13.578c20.558,-14.871 38.305,-33.282 52.408,-54.374c-19.171,8.495 -39.51,14.065 -60.334,16.527c21.924,-13.124 38.343,-33.782 46.182,-58.102c-20.619,12.235 -43.18,20.859 -66.703,25.498c-19.862,-21.121 -47.602,-33.112 -76.593,-33.112c-57.682,0 -105.145,47.464 -105.145,105.144c0,8.002 0.914,15.979 2.722,23.773c-84.418,-4.231 -163.18,-44.161 -216.494,-109.752c-27.724,47.726 -13.379,109.576 32.522,140.226c-16.715,-0.495 -33.071,-5.005 -47.677,-13.148l0,1.331c0.014,49.814 35.447,93.111 84.275,102.974c-15.464,4.217 -31.693,4.833 -47.431,1.802c13.727,42.685 53.311,72.108 98.14,72.95c-37.19,29.227 -83.157,45.103 -130.458,45.056c-8.358,-0.016 -16.708,-0.522 -25.006,-1.516c48.034,30.825 103.94,47.18 161.014,47.104" />
-                  </svg>
-                </a>
+                <FigmaSvg />
+                <TwitterIcon />
 
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
