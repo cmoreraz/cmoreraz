@@ -10,13 +10,13 @@ export default function SectionBento() {
       <a
         target="_blank"
         rel="noreferrer"
-        href="https://drive.google.com/file/d/1-6_qXA48htfG1dpM7xDRBNnVHXKSGRi_mw3PMFu7Szc/view"
+        href="https://drive.google.com/file/d/1gdtwoNmKUphdfSAxoxzQqnFZfTvyyLtw/view?usp=sharing"
         className="group relative h-96 w-full cursor-pointer overflow-hidden rounded-xl "
       >
         <Image
           alt=""
           className="absolute inset-0 h-full w-full object-cover transition-transform ease-out group-hover:scale-110 group-hover:blur-sm"
-          src={"./images/home/resume.webp"}
+          src={"./images/home/resume.png"}
           width={700}
           height={900}
         />
@@ -58,45 +58,7 @@ export default function SectionBento() {
           />
         </div>
       </a>
-      <div className="group relative flex w-full flex-col items-center justify-center overflow-hidden rounded-xl border-0 border-white p-4 font-bold lg:col-span-2">
-        <Image
-          alt="Logo Richard Vinueza"
-          src={"./images/blog/huma/huma-bg.jpg"}
-          width={960}
-          height={540}
-          className="absolute top-0 h-full w-full scale-105 opacity-75 blur-md transition-all  group-hover:scale-125 group-hover:blur-lg "
-        />
-        <p className="z-10 rounded-full border-4 border-white/30 bg-white/70 px-4 py-1 text-sm  text-black/60">
-          NEW
-        </p>
-        <div className="z-10 m-4 mx-auto flex h-24 w-24 items-center justify-center overflow-hidden rounded-3xl border-4 border-white bg-white">
-          <Image
-            alt="Logo Richard Vinueza"
-            src={"./images/blog/huma/huma-app-icon.jpg"}
-            width={100}
-            height={100}
-          />
-        </div>
-        <div className="z-10 flex-col items-center justify-center text-center">
-          <p className="text-3xl text-white">HUMA LEGENDS</p>
-          <p className="mb-4 mt-2">DOWNLOAD IN APPSTORE</p>
-          <div className="flex justify-center gap-4">
-            <Link
-              href={"https://huma.darkpixl.com"}
-              target="_blank"
-              className="rounded-md border border-white/50 bg-black/20 px-4 py-2 text-sm"
-            >
-              Visit Website
-            </Link>
-            <Link
-              href={"/projects/huma"}
-              className="rounded-md border border-white/50 bg-black/20 px-4 py-2 text-sm"
-            >
-              Visit Story
-            </Link>
-          </div>
-        </div>
-      </div>
+      
       <Link
         href={"/#stack"}
         className="group relative h-[500px] w-full cursor-pointer overflow-hidden rounded-xl bg-[#23293C] sm:h-[800px] md:h-full lg:h-96 "
@@ -126,7 +88,7 @@ export default function SectionBento() {
         <Link
           target="_blank"
           rel="noreferrer"
-          href="https://www.figma.com/community/file/1270173776891030529"
+          href="https://www.figma.com/community/file/"
           className="group relative flex items-center overflow-hidden rounded-xl border-2 border-dashed border-[#FF512F]/50  p-6 font-bold "
         >
           <div>

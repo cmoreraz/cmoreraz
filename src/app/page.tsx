@@ -22,6 +22,7 @@ import {
   AWSIconSvg
 } from "./components/Icons";
 import { NavBar } from "./components/ui/navbar/navbar";
+import SectionBento from "./components/home/SectionBento";
 
 export default function Home() {
   return (
@@ -208,6 +209,9 @@ export default function Home() {
 
           </div>
         </section>
+
+        <SectionBento />
+        
       </div>
     </main>
   );
