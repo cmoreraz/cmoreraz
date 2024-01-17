@@ -1,7 +1,7 @@
-export {AwsIcon} from './awsIcon';
-export {NextIcon} from './nextIcon';
-export {VercelIcon} from './vercelIcon';
-export {FigmaIcon, FigmaSvg} from './figmaIcon';
+export * from './brands/awsIcon';
+export * from './nextIcon';
+export * from './brands/vercelIcon';
+export * from './brands/figmaIcon';
 export * from './commonsimage';
-export * from './twitterIcon';
-export * from './githubIcon';
+export * from './brands/twitterIcon';
+export * from './brands/githubIcon';
