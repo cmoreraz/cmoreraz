@@ -27,7 +27,6 @@ export default function Home() {
           <NavBar />
         </div>
 
-
         <section
           id="header"
           className="container flex h-screen max-w-[64rem] flex-col items-center justify-center gap-4 text-center"
