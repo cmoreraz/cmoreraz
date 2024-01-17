@@ -1,5 +1,5 @@
 import Image from "next/image"
-import { AWSIcon } from "../Icons/IconsBusiness"
+import { AWSIconSvg } from "../Icons"
 
 export default function SectionFrameworksNStak() {
   return (
@@ -33,7 +33,7 @@ export default function SectionFrameworksNStak() {
         </div>
         <div className="relative overflow-hidden rounded-lg border bg-background p-2">
           <div className="flex h-[180px] flex-col justify-between rounded-md p-6">
-            <AWSIcon />
+            <AWSIconSvg />
             <div className="space-y-2">
               <h3 className="font-bold">Servers and Deploy</h3>
               <p className="text-sm text-muted-foreground">
