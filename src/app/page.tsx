@@ -2,7 +2,6 @@ import Link from "next/link";
 import HeaderImage from "./components/home/HeaderImage";
 import { siteConfig } from "./config/site";
 import {
-  AWSIcon,
   CiscoIcon,
   GoogleIcon,
   HackerRankIcon,
@@ -19,7 +18,8 @@ import {
   FigmaSvg,
   TwitterIcon,
   GithubSvg,
-  ArrowFigma
+  ArrowFigma,
+  AWSIconSvg
 } from "./components/Icons";
 import { NavBar } from "./components/ui/navbar/navbar";
 
@@ -120,8 +120,6 @@ export default function Home() {
                   </svg>
                 </a>
 
-
-
                 <a
                   className="rounded-lg p-2 hover:bg-white/25"
                   href="https://dribbble.com/cmoreraz"
@@ -181,7 +179,7 @@ export default function Home() {
           <div className="flex justify-center gap-24 pt-8 text-white">
             {/* TODO: Create a component each SVG */}
             <GoogleIcon width="50" height="50" />
-            <AWSIcon width="50" height="50" />
+            <AWSIconSvg width="50" height="50" />
             <HarvardIcon width="50" height="50" />
             <HackerRankIcon width="50" height="50" />
             <CiscoIcon />
