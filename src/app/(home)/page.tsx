@@ -1,15 +1,18 @@
+"use client";
+
 import Link from "next/link";
-import HeaderImage from "./components/home/HeaderImage";
-import { siteConfig } from "./config/site";
+import HeaderImage from "../components/home/HeaderImage";
+import { siteConfig } from "../config/site";
 import {
   CiscoIcon,
   GoogleIcon,
   HackerRankIcon,
   HarvardIcon,
   LinkedinIcon,
-} from "./components/Icons/IconsBusiness";
-import { cn } from "../../old/lib/utils";
-import { buttonVariants } from "./components/ui/button";
+} from "../components/Icons/IconsBusiness";
+import { TypeAnimation } from "react-type-animation";
+import { cn } from "../../../old/lib/utils";
+import { buttonVariants } from "../components/ui/button";
 import {
   FigmaIcon,
   VercelIcon,
@@ -20,9 +23,9 @@ import {
   GithubSvg,
   ArrowFigma,
   AWSIconSvg
-} from "./components/Icons";
-import { NavBar } from "./components/ui/navbar/navbar";
-import SectionBento from "./components/home/SectionBento";
+} from "../components/Icons";
+import { NavBar } from "../components/ui/navbar/navbar";
+import SectionBento from "../components/home/SectionBento";
 
 export default function Home() {
   return (
@@ -58,11 +61,26 @@ export default function Home() {
                   " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
                 }
               >
-                <span>SOFTWARE</span>
-                <span>DEVELOPER</span>
-                <span>DESDE</span>
-                <span className="text-[#FF512F]">2016</span>
+
+                <TypeAnimation
+                  sequence={[
+                    "Andres",
+                    1000,
+                    "Web Developer",
+                    1000,
+                    "Backend Developer",
+                    1000,
+                    "Test Automation",
+                    1000,
+                  ]}
+                  wrapper="span"
+                  speed={50}
+                  repeat={Infinity}
+                />
+
               </h1>
+
+              <br></br>
 
               <h3 className="flex flex-col text-center text-lg">
                 En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
@@ -211,7 +229,7 @@ export default function Home() {
         </section>
 
         <SectionBento />
-        
+
       </div>
     </main>
   );

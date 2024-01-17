@@ -60,7 +60,7 @@ export default function SectionBento() {
       </a>
       
       <Link
-        href={"/#stack"}
+        href={"/stack"}
         className="group relative h-[500px] w-full cursor-pointer overflow-hidden rounded-xl bg-[#23293C] sm:h-[800px] md:h-full lg:h-96 "
       >
         <div
