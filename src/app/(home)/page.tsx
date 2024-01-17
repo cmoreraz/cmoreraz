@@ -64,8 +64,6 @@ export default function Home() {
 
                 <TypeAnimation
                   sequence={[
-                    "Andres",
-                    1000,
                     "Web Developer",
                     1000,
                     "Backend Developer",
