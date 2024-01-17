@@ -4,3 +4,4 @@ export {VercelIcon} from './vercelIcon';
 export {FigmaIcon, FigmaSvg} from './figmaIcon';
 export * from './commonsimage';
 export * from './twitterIcon';
+export * from './githubIcon';
