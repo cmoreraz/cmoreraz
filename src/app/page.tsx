@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import HeaderImage from "./components/home/HeaderImage";
 import { siteConfig } from "./config/site";
