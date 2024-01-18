@@ -33,7 +33,7 @@ import SectionBento from "../../components/home/SectionBento";
 export default function Home() {
   return (
 
-      <div>
+      <div className="flex min-h-screen flex-col items-center justify-between p-3">
 
         <section
           id="header"
