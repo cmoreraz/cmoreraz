@@ -10,7 +10,7 @@ export const NavBar = () => {
                     <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
 
                         <a
-                            href="/"
+                            href="/cmoreraz/"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-gray-400 items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
                             <span>Acerca de mi</span>
@@ -28,7 +28,7 @@ export const NavBar = () => {
                             <span>Notebook</span>
                         </a>
                         <a
-                            href="/contact"
+                            href="/cmoreraz/contact"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded text-gray-400 items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
                             <span>Contacto</span>
