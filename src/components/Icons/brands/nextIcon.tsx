@@ -7,7 +7,6 @@ interface Props {
 
 export const NextIcon = ({width, height}: Props) => {
     return (
-        <>
             <Image
                 src="./images/next_icon.png"
                 alt="Blur"
@@ -15,6 +14,5 @@ export const NextIcon = ({width, height}: Props) => {
                 width={width}
                 height={height}
             />
-        </>
     );
 }

@@ -1,4 +1,4 @@
-import { SiteConfig } from "../../../old/types";
+import { SiteConfig } from "../../old/types";
 
 
 

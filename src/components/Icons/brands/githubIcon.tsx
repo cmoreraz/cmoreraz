@@ -1,3 +1,7 @@
+import Link from "next/link";
+import { cn } from "../../../../old/lib/utils";
+import { buttonVariants } from "../../ui/button";
+
 export const GithubSvg = () => {
     return (
         <a
@@ -25,4 +29,17 @@ export const GithubSvg = () => {
         </a>
     );
 
+}
+
+export const GithubLink = () => {
+    return(
+        <Link
+              href={'https://github.com/cmoreraz'}
+              target="_blank"
+              rel="noreferrer"
+              className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
+            >
+              GitHub
+            </Link>
+    );
 }
