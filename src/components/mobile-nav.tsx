@@ -1,10 +1,10 @@
 import * as React from "react"
 import Link from "next/link"
-import { cn } from "../../../old/lib/utils"
+import { cn } from "../../old/lib/utils"
 import { Icons } from "./icons"
-import { siteConfig } from "../../config/site"
-import { MainNavItem } from "../../../old/types"
-import { useLockBody } from "../../../old/hooks/use-lock-body"
+import { siteConfig } from "../config/site"
+import { MainNavItem } from "../../old/types"
+import { useLockBody } from "../../old/hooks/use-lock-body"
 
 interface MobileNavProps {
   items: MainNavItem[]

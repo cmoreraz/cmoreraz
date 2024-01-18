@@ -1,5 +1,5 @@
 import * as React from "react"
-import { cn } from "../../../old/lib/utils"
+import { cn } from "../../old/lib/utils"
 import { Icons } from "./icons"
 
 

@@ -2,7 +2,7 @@
 
 import { buttonVariants } from "./ui/button"
 import { Icons } from "./icons"
-import { cn } from "../../../old/lib/utils";
+import { cn } from "../../old/lib/utils";
 
 export default function GoBackButton() {
   return (

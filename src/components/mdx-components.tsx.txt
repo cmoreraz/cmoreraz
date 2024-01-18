@@ -1,7 +1,7 @@
 import * as React from "react"
 import Image from "next/image"
 
-import { cn } from "../../../old/lib/utils"
+import { cn } from "../../old/lib/utils"
 import ImageBlog from "./ImageBlog"
 import { MdxCard } from "./mdx-card"
 import { Callout } from "./callout"

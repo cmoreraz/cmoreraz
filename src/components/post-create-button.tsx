@@ -3,7 +3,7 @@
 import * as React from "react"
 import { useRouter } from "next/navigation"
 
-import { cn } from "../../../old/lib/utils"
+import { cn } from "../../old/lib/utils"
 import { Icons } from "./icons"
 import { ButtonProps, buttonVariants } from "./ui/button"
 import { toast } from "./ui/use-toast"

@@ -1,6 +1,6 @@
 import Link from "next/link";
-import { cn } from "../../../../old/lib/utils";
 import { buttonVariants } from "../../ui/button";
+import { cn } from "../../../../old/lib/utils";
 
 export const GithubSvg = () => {
     return (

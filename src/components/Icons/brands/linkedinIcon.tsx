@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
-import { cn } from "../../../../old/lib/utils";
 import { buttonVariants } from "../../ui/button";
+import { cn } from "../../../../old/lib/utils";
 
 interface Props {
     width: number,

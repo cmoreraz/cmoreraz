@@ -2,7 +2,7 @@
 
 import * as React from "react"
 
-import { cn } from "../../../old/lib/utils"
+import { cn } from "../../old/lib/utils"
 import { toast } from "./ui/use-toast"
 import { Input } from "./ui/input"
 
