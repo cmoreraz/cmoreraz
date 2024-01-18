@@ -1,7 +1,6 @@
 
 import Link from "next/link"
-import { HoverCard, HoverCardContent, HoverCardTrigger } from "../../../src/app/components/ui/hover-card"
-import { Avatar, AvatarFallback, AvatarImage } from "../../../src/app/components/ui/avatar"
+import { Avatar, AvatarFallback, AvatarImage } from "../../../../src/app/components/ui/avatar"
 
 export default function SectionInspiration() {
   return (
