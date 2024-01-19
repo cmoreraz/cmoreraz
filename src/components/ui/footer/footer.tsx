@@ -3,7 +3,7 @@ import Link from 'next/link';
 export const Footer = () => {
 	return (
 		<footer >
-			<div className="max-w-screen-xl px-4 py-16 mx-auto sm:px-6 lg:px-8">
+			<div className="max-w-screen-xl px-4 py-8 mx-auto sm:px-6 lg:px-8">
 				<div className="grid grid-cols-1 gap-8 lg:grid-cols-3">
 					<div>
 						{
@@ -88,7 +88,7 @@ export const Footer = () => {
 						}
 					</div>
 				</div>
-				<p className="mt-8 text-xs">
+				<p className="mt-5 text-xs">
 					© 2024 Cristian Andres Morera
 				</p>
 			</div>
