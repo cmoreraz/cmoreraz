@@ -9,30 +9,33 @@ export const NavBar = () => {
 
                     <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
 
-                        <a
-                            href="/cmoreraz/"
+                        <a href="/cmoreraz/"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
-                            <span>Acerca de mi</span>
+                            <span>About</span>
                         </a>
-                        <a
-                            href="#"
+                        <a href="#"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
                             <span>Experiencia</span>
                         </a>
-            
-                        <a
-                            href="/cmoreraz/contact"
+
+                        <a href="/cmoreraz/contact"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
-                            <span>Contacto</span>
+                            <span>Contact</span>
                         </a>
-                        <a
-                            href="#"
+
+                        <a href="/cmoreraz/stack"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
-                            <span>Mas</span>
+                            <span>Tools</span>
+                        </a>
+
+                        <a href="#"
+                            className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
+                        >
+                            <span>More</span>
                         </a>
 
                         <a
