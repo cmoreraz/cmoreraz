@@ -4,14 +4,12 @@ import { cn } from "../../../../old/lib/utils";
 
 export const GithubSvg = () => {
     return (
-        <a
-            className="rounded-lg p-2 hover:bg-white/25"
+        <a className="rounded-lg p-2 hover:bg-white/25"
             href={'https://github.com/cmoreraz'}
             target="_blank"
             rel="noreferrer"
         >
-            <svg
-                height="24px"
+            <svg height="24px"
                 width="24px"
                 version="1.1"
                 viewBox="0 0 512 512"
@@ -32,14 +30,13 @@ export const GithubSvg = () => {
 }
 
 export const GithubLink = () => {
-    return(
-        <Link
-              href={'https://github.com/cmoreraz'}
-              target="_blank"
-              rel="noreferrer"
-              className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
-            >
-              GitHub
-            </Link>
+    return (
+        <Link href={'https://github.com/cmoreraz'}
+            target="_blank"
+            rel="noreferrer"
+            className={cn(buttonVariants({ variant: "outline", size: "lg" }))}
+        >
+            GitHub
+        </Link>
     );
 }

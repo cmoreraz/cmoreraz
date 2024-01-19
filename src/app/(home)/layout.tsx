@@ -14,7 +14,7 @@ export default function RootLayout({
                  */
             }
 
-            <div className="relative z-20 flex w-full flex-col  items-center justify-center gap-4">
+            <div className="relative z-20 flex w-full flex-col items-center justify-center gap-4 p-3">
                 <NavBar />
             </div>
 
