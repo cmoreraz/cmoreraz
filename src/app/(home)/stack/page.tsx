@@ -43,8 +43,15 @@ const Stack = () => {
                 </div>
                 <div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3">
 
+                <Card pathImage="./images/jira.webp" title="Jira" category="Productivity" href="https://www.atlassian.com/" />
                     <Card pathImage="./images/todoist.webp" title="Todoist" category="Productivity" href="https://todoist.com/" />
-                    <Card pathImage="./images/notion.webp" title="Notion" category="notes" href="https://www.notion.so/" />
+                    <Card pathImage="./images/notion.webp" title="Notion" category="Notes" href="https://www.notion.so/" />
+                    <Card pathImage="./images/chatgpt.webp" title="ChatGPT" category="Productivity" href="https://chat.openai.com/" />
+                    <Card pathImage="./images/duolingo.webp" title="Duolingo" category="Education" href="https://www.duolingo.com/" />
+                    <Card pathImage="./images/books.webp" title="Books" category="Education" href="https://www.apple.com/apple-books/" />
+                    <Card pathImage="./images/slack.webp" title="Slack" category="Comunication" href="https://slack.com/" />
+                    <Card pathImage="./images/discord.webp" title="Discord" category="Comunication" href="https://discord.com/" />
+                    <Card pathImage="./images/twitch.webp" title="Twitch" category="Entertainment" href="https://www.twitch.tv/" />
 
                 </div>
 
