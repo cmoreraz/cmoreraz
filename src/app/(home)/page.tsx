@@ -10,13 +10,7 @@ import {
   HarvardIcon,
 } from "../../components/Icons/IconsBusiness";
 import { TypeAnimation } from "react-type-animation";
-import { motion } from "framer-motion";
-import Image from "next/image";
 import {
-  FigmaIcon,
-  VercelIcon,
-  NextIcon,
-  AwsIcon,
   FigmaSvg,
   TwitterIcon,
   GithubSvg,
@@ -41,21 +35,16 @@ export default function Home() {
         <div className="z-10  w-full max-w-5xl">
           <div className="relative z-20 flex w-full flex-col  items-center justify-center gap-4">
 
-            <AwsIcon width={120} height={120} />
-            <NextIcon width={120} height={120} />
-            <VercelIcon width={120} height={120} />
-            <FigmaIcon width={120} height={120} />
-
-
             <h2 className="relative rounded-md bg-gray-50 px-4 py-2 text-center font-semibold text-black">
               <ArrowFigma className="absolute -left-8 -top-6" />
-              <span>Cristian Andres Morera</span>
+              <span className="bg-clip-text bg-gradient-to-r from-primary-400 to-secondary-600">
+                Hello, I&apos;m Cristian Andres Morera
+              </span>
             </h2>
 
-            <h1
-              className={
-                " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
-              }
+            <h1 className={
+              " z-10 flex max-w-3xl flex-col text-center text-6xl  font-extrabold  md:text-10xl "
+            }
             >
 
               <TypeAnimation
@@ -73,21 +62,13 @@ export default function Home() {
               />
 
             </h1>
-
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
             <br />
             <br />
 
-            <h3 className="flex flex-col text-center text-lg">
-              En los ultimos 5 años, he contribuido a potenciar mas de 6+ empresas
+            <h3 className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
+              Over the last 5 years, I've empowered 6+ companies.
               <span className="hidden max-w-[39rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
-                Desarrollando interfaces centradas en el usuario,
-                creando servicios REST, automatización procesos y pruebas de software.
+                Developing user-centric interfaces, creating REST services, process automation and software testing.
               </span>
             </h3>
 
