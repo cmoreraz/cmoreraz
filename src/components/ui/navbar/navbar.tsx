@@ -3,9 +3,8 @@ export const NavBar = () => {
         <>
             <nav className="flex items-center bg-gray-800 p-2 flex-wrap">
 
-                <div
-                    className="hidden top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto"
-                    id="navigation"                >
+                <div id="navigation"
+                    className="hidden top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto">
 
                     <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
 
@@ -44,8 +43,7 @@ export const NavBar = () => {
                             target="_blank"
                             rel="noreferrer"
                         >
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
+                            <svg xmlns="http://www.w3.org/2000/svg"
                                 height="24px"
                                 width="24px"
                                 viewBox="0 0 24 24"
@@ -81,14 +79,12 @@ export const NavBar = () => {
                             </svg>
                         </a>
 
-                        <a
-                            className="rounded-lg p-2 hover:bg-white/25"
+                        <a className="rounded-lg p-2 hover:bg-white/25"
                             href={'https://twitter.com/morerazubieta'}
                             target="_blank"
                             rel="noreferrer"
                         >
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
+                            <svg xmlns="http://www.w3.org/2000/svg"
                                 height="24px"
                                 width="24px"
                                 viewBox="0 0 24 24"
@@ -96,8 +92,7 @@ export const NavBar = () => {
                             >
                                 <title>X</title>
                                 <g>
-                                    <path
-                                        d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z" />
+                                    <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z" />
                                 </g>
                             </svg>
                         </a>

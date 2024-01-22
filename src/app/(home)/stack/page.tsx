@@ -1,6 +1,5 @@
 import Image from "next/image";
-import { Card } from "../../../components/ui/cards/card"
-import { Arrow } from "@/components/ui/cards/arrow/arrow";
+import { Card } from "../../../components/ui/cards/card";
 
 
 const Stack = () => {
@@ -18,27 +17,25 @@ const Stack = () => {
 
                 <div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3">
 
-
-                    <Card pathImage="./images/figma.webp" title="Figma" category="Design" />
-                    <Card pathImage="./images/nextjs.webp" title="Next.js" category="Web Framework" />
-                    <Card pathImage="./images/tailwindcss.webp" title="TailwindCSS" category="CSS" />
-                    <Card pathImage="./images/github.webp" title="GitHub" category="Version Control" />
-                    <Card pathImage="./images/vercel.webp" title="Vercel" category="Deployment" />
-                    <Card pathImage="./images/vscode.webp" title="VSCode" category="Editor" />
-                    <Card pathImage="./images/typescript.webp" title="TypeScript" category="Language" />
-                    <Card pathImage="./images/java.webp" title="Java" category="Language" />
-                    <Card pathImage="./images/python.webp" title="Python" category="Language" />
-                    <Card pathImage="./images/react-hook-form.webp" title="React Hook Form" category="Library" />
-                    <Card pathImage="./images/mongodb.webp" title="PostgreSql" category="Database" />
-                    <Card pathImage="./images/postgressql.webp" title="MongoDB" category="Database" />
-
-                </div>
-                <div className="mx-auto flex justify-center text-center md:max-w-[58rem]">
-
-                </div>
-                <div className="relative mx-auto flex justify-center text-center md:max-w-[58rem]">
+                    <Card pathImage="./images/figma.webp" title="Figma" category="Design" href="https://figma.com/"/>
+                    <Card pathImage="./images/nextjs.webp" title="Next.js" category="Web Framework" href="https://nextjs.org/"/>
+                    <Card pathImage="./images/tailwindcss.webp" title="TailwindCSS" category="CSS" href="https://tailwindui.com/"/>
+                    <Card pathImage="./images/github.webp" title="GitHub" category="Version Control" href="https://github.com/"/>
+                    <Card pathImage="./images/git.webp" title="Git" category="Version Control" href="https://git-scm.com/"/>
+                    <Card pathImage="./images/vscode.webp" title="VSCode" category="Editor" href="https://code.visualstudio.com/"/>
+                    <Card pathImage="./images/typescript.webp" title="TypeScript" category="Language" href="https://www.typescriptlang.org/"/>
+                    <Card pathImage="./images/java.webp" title="Java" category="Language" href="https://www.java.com/en/"/>
+                    <Card pathImage="./images/python.webp" title="Python" category="Language" href="https://www.python.org/"/>
+                    <Card pathImage="./images/spring.png" title="Spring Boot" category="Framework" href="https://spring.io/"/>
+                    <Card pathImage="./images/react-hook-form.webp" title="React Hook Form" category="Library" href="https://www.react-hook-form.com/"/>
+                    <Card pathImage="./images/mongodb.webp" title="PostgreSql" category="Database" href="https://www.postgresql.org/"/>
+                    <Card pathImage="./images/postgressql.webp" title="MongoDB" category="Database" href="https://www.mongodb.com/"/>
+                    <Card pathImage="./images/docker.webp" title="Docker" category="Kubernetes" href="https://www.docker.com/"/>
+                    <Card pathImage="./images/jenkins.png" title="Jenkins" category="Kubernetes" href="https://www.jenkins.io/"/>
+                    <Card pathImage="./images/vercel.webp" title="Vercel" category="Deployment" href="https://vercel.com/"/>
 
                 </div>
+
             </section>
         </div>
     )
