@@ -4,16 +4,16 @@ const menu = [
     link: '/cmoreraz/'
   },
   {
-    name: 'Work',
-    link: '#'
-  },
-  {
-    name: 'Contact',
-    link: '/cmoreraz/contact'
+    name: 'Work experience',
+    link: '/cmoreraz/experience'
   },
   {
     name: 'Tech Stack',
     link: '/cmoreraz/stack'
+  },
+  {
+    name: 'Contact',
+    link: '/cmoreraz/contact'
   },
   {
     name: 'More',
