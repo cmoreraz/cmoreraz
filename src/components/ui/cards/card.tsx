@@ -14,7 +14,7 @@ export const Card = ({ pathImage, title, category, href }: Props) => {
             <a aria-label={title} target="_blank" className="group relative flex items-center justify-center gap-4 overflow-hidden rounded-3xl border-[1px] dark:border-card-border border-light-card-border bg-faint-white dark:bg-onyx p-4 transition duration-300 dark:hover:bg-white/10 hover:bg-onyx/5 md:h-[300px] md:p-6" href={href}>
 
                 <picture className="relative block h-[180px] w-[60px] origin-bottom transition duration-300 md:h-[100px] md:w-[100px] md:group-hover:-translate-y-1 md:group-hover:scale-[101%]">
-                    <Image width={100} height={100} alt="NextJs" src={pathImage} />
+                    <Image width={100} height={100} alt={title} src={pathImage} />
                 </picture>
 
                 <Arrow />

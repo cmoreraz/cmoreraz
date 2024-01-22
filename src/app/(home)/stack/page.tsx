@@ -43,7 +43,8 @@ const Stack = () => {
                 </div>
                 <div className="mx-auto grid justify-center gap-4 sm:grid-cols-2 md:max-w-[64rem] md:grid-cols-3">
 
-                    <Card pathImage="./images/todoist.webp" title="Todoist" category="Productivity" href="https://figma.com/" />
+                    <Card pathImage="./images/todoist.webp" title="Todoist" category="Productivity" href="https://todoist.com/" />
+                    <Card pathImage="./images/notion.webp" title="Notion" category="notes" href="https://www.notion.so/" />
 
                 </div>
 
