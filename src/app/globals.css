@@ -7,6 +7,14 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+@layer base {
+  :root {
+    --border: 214.3 31.8% 91.4%;
+  }
+  .container-body {
+    @apply flex min-h-screen flex-col items-center justify-between p-3;
+  }
+}
 
 @media (prefers-color-scheme: dark) {
   :root {
@@ -25,3 +33,4 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
