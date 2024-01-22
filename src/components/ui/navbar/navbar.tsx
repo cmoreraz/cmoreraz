@@ -33,8 +33,8 @@ export const NavBar = () => {
           <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
 
             {
-              menu.map((item) => (
-                <a href={item.link}
+              menu.map((item, index) => (
+                <a key={index} href={item.link}
                   className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                 >
                   <span>{item.name}</span>
