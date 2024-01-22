@@ -15,6 +15,18 @@ const dev = [
         pathImage: "./images/nextjs.webp"
     },
     {
+        title: "React",
+        category: "Web Framework",
+        href: "https://react.dev/",
+        pathImage: "./images/react.webp"
+    },
+    {
+        title: "Angular",
+        category: "Web Framework",
+        href: "https://angular.io/",
+        pathImage: "./images/angular.webp"
+    },
+    {
         title: "GitHub",
         category: "Version Control",
         href: "https://github.com/",
