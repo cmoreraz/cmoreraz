@@ -11,7 +11,7 @@ export const NavBar = () => {
                         <a href="/cmoreraz/"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
-                            <span>About</span>
+                            <span>About</span> 
                         </a>
                         <a href="#"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"

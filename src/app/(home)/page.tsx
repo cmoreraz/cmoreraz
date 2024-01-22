@@ -10,7 +10,8 @@ import {
   HarvardIcon,
 } from "../../components/Icons/IconsBusiness";
 import { TypeAnimation } from "react-type-animation";
-
+import { motion } from "framer-motion";
+import Image from "next/image";
 import {
   FigmaIcon,
   VercelIcon,
