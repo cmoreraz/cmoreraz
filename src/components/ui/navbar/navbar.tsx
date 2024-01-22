@@ -12,7 +12,7 @@ const menu = [
     link: '/cmoreraz/contact'
   },
   {
-    name: 'Tools',
+    name: 'Tech Stack',
     link: '/cmoreraz/stack'
   },
   {
