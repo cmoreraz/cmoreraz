@@ -103,6 +103,18 @@ const dev = [
         title: "Vercel",
         category: "Deployment",
         href: "https://vercel.com/"
+    },
+    {
+        pathImage: "./images/aws.webp",
+        title: "AWS",
+        category: "Cloud",
+        href: "https://aws.amazon.com/"
+    },
+    {
+        pathImage: "./images/google.webp",
+        title: "Google Cloud",
+        category: "Cloud",
+        href: "https://cloud.google.com/"
     }
 
 ]
