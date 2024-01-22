@@ -10,7 +10,7 @@ export default function Experience() {
         <div className="mx-auto flex items-center justify-center px-6 md:px-60 container space-y-6 bg-slate-50 py-8 dark:bg-transparent md:py-1 lg:py-24">
           <div className="space-y-6 border-l-2 border-dashed">
 
-            <div className="relative overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
+            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="hidden lg:block" href="https://subbi.app">
                   <Image alt="Subbi Icon" width="70" height="70" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110" src="./images/google.webp" />
