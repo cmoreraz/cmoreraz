@@ -29,7 +29,8 @@ const Stack = () => {
                     <Card pathImage="./images/java.webp" title="Java" category="Language" />
                     <Card pathImage="./images/python.webp" title="Python" category="Language" />
                     <Card pathImage="./images/react-hook-form.webp" title="React Hook Form" category="Library" />
-                    <Card pathImage="./images/mongodb.webp" title="MongoDB" category="Database" />
+                    <Card pathImage="./images/mongodb.webp" title="PostgreSql" category="Database" />
+                    <Card pathImage="./images/postgressql.webp" title="MongoDB" category="Database" />
 
                 </div>
                 <div className="mx-auto flex justify-center text-center md:max-w-[58rem]">

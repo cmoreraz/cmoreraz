@@ -30,7 +30,7 @@ export default function SectionBento() {
             <div className="flex items-center gap-3 p-2">
               <Image
                 className="h-12 w-12"
-                src={"./images/GDrive-logo.png"}
+                src={"./images/google-drive.webp"}
                 width={150}
                 height={150}
                 alt=""

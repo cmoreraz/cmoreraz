@@ -27,7 +27,6 @@ import {
   Dribbblevg,
   LinkedinLink
 } from "../../components/Icons";
-import { NavBar } from "../../components/ui/navbar/navbar";
 import SectionBento from "../../components/home/SectionBento";
 
 export default function Home() {

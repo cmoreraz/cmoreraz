@@ -17,7 +17,7 @@ export const NavBar = () => {
                         <a href="#"
                             className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
                         >
-                            <span>Experiencia</span>
+                            <span>Work</span>
                         </a>
 
                         <a href="/cmoreraz/contact"
