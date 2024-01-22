@@ -25,20 +25,21 @@ const menu = [
 export const NavBar = () => {
   return (
     <>
-      <nav className="flex items-center bg-gray-800 p-2 flex-wrap">
+      <nav className="text-center sm:text-left flex items-center bg-gray-800 p-2 flex-wrap">
 
         <div id="navigation"
           className="hidden top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto">
 
           <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto w-full lg:items-center items-start  flex flex-col lg:h-auto">
 
-            {menu.map((item) => (
-              <a href={item.link}
-                className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
-              >
-                <span>{item.name}</span>
-              </a>
-            ))
+            {
+              menu.map((item) => (
+                <a href={item.link}
+                  className="lg:inline-flex lg:w-auto w-full px-3 py-2 rounded items-center justify-center hover:bg-gray-900 hover:text-white"
+                >
+                  <span>{item.name}</span>
+                </a>
+              ))
             }
 
             <a
