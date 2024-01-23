@@ -7,19 +7,19 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
 const menu = [
   {
     name: 'About',
-    link: '/cmoreraz/'
+    link: '/'
   },
   {
     name: 'Work experience',
-    link: '/cmoreraz/experience'
+    link: '/experience'
   },
   {
     name: 'Tech Stack',
-    link: '/cmoreraz/stack'
+    link: '/stack'
   },
   {
     name: 'Contact',
-    link: '/cmoreraz/contact'
+    link: '/contact'
   },
   {
     name: 'More',
