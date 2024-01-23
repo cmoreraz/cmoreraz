@@ -10,7 +10,7 @@ export default function Experience() {
         <div className="mx-auto flex items-center justify-center px-6 md:px-60 container space-y-6 bg-slate-50 py-8 dark:bg-transparent md:py-1 lg:py-24">
           <div className="space-y-6">
 
-            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
+            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737] lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="card-medium" href="https://lumu.io/">
                   <Image alt="Subbi Icon" width="100" height="100" data-nimg="1"
@@ -18,7 +18,7 @@ export default function Experience() {
                     src="./images/lumu.png" />
                 </a>
             
-                  <p className="my-4 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
+                  <p className="my-5 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
                     Software Development Engineer in Test
                   </p>
                   <p className="flex-1 text-dark-gray">
@@ -39,7 +39,7 @@ export default function Experience() {
 
             </div>
 
-            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
+            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737] lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="card-medium lg:block" href="https://habi.co/">
                   <Image alt="Subbi Icon" width="60" height="70" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
@@ -87,7 +87,7 @@ export default function Experience() {
 
             </div>
 
-            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
+            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737] lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="card-medium lg:block" href="https://puntored.co/">
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
@@ -130,7 +130,7 @@ export default function Experience() {
 
             </div>
 
-            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
+            <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737] lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="card-medium lg:block" href="https://www.evertecinc.com/">
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"

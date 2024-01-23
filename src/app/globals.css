@@ -13,6 +13,10 @@
     @apply py-3 space-y-6 lg:block;
   }
 
+  .medium {
+    @apply my-4;
+  }
+
   .menu {
     @apply text-center;
   }
@@ -44,7 +48,7 @@
   }
 
   .menu {
-    @apply text-center ;
+    @apply text-center;
   }
 }
 
