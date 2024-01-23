@@ -7,14 +7,56 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 }
+
+@media (min-width: 640px) {
+  .card-medium {
+    @apply py-3 space-y-6 lg:block;
+  }
+
+  .menu {
+    @apply text-center bg-gray-800;
+  }
+}
+
+@media (min-width: 768px) {
+  .card-medium {
+    @apply py-3 space-y-6 lg:block;
+  }
+
+  .menu {
+    @apply text-center bg-gray-800;
+  }
+}
+
+@media (min-width: 1024px) {
+  .card-medium {
+    @apply hidden lg:block;
+  }
+
+  .menu {
+    @apply text-center bg-gray-800;
+  }
+}
+
+@media (min-width: 1280px) {
+  .card-medium {
+    @apply hidden lg:block;
+  }
+
+  .menu {
+    @apply text-center bg-gray-800;
+  }
+}
+
 @layer base {
   :root {
     --border: 214.3 31.8% 91.4%;
   }
+
   .container-body {
     @apply flex min-h-screen flex-col items-center justify-between p-3;
   }
-  
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -27,11 +69,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
+  background: linear-gradient(to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+      rgb(var(--background-end-rgb))) rgb(var(--background-start-rgb));
 }
-

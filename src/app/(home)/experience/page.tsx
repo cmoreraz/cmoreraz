@@ -12,8 +12,8 @@ export default function Experience() {
 
             <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
-                <a target="_blank" className="hidden lg:block" href="https://lumu.io/">
-                  <Image alt="Subbi Icon" width="100" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
+                <a target="_blank" className="card-medium" href="https://lumu.io/">
+                  <Image alt="Subbi Icon" width="100" height="100" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="./images/lumu.png" />
                 </a>
                 <p className="text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
@@ -38,7 +38,7 @@ export default function Experience() {
 
             <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
-                <a target="_blank" className="hidden lg:block" href="https://habi.co/">
+                <a target="_blank" className="card-medium lg:block" href="https://habi.co/">
                   <Image alt="Subbi Icon" width="60" height="70" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="./images/habi.png" />
                 </a>
@@ -86,7 +86,7 @@ export default function Experience() {
 
             <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
-                <a target="_blank" className="hidden lg:block" href="https://puntored.co/">
+                <a target="_blank" className="card-medium lg:block" href="https://puntored.co/">
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="https://eyw9wtr7qk5.exactdn.com/wp-content/uploads/2021/08/logo-puntored-blanco.svg" />
                 </a>
@@ -129,7 +129,7 @@ export default function Experience() {
 
             <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
-                <a target="_blank" className="hidden lg:block" href="https://www.evertecinc.com/">
+                <a target="_blank" className="card-medium lg:block" href="https://www.evertecinc.com/">
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="https://www.evertecinc.com/wp-content/uploads/2020/07/logo-evertec-footer.png" />
                 </a>
