@@ -91,8 +91,7 @@ export default function Home() {
         id="info"
         className="flex flex-col items-center justify-center space-y-6 pb-8 pt-6 text-center md:pb-12 md:pt-10 lg:py-32"
       >
-        <Link
-          href={siteConfig.links.twitter}
+        <Link href={siteConfig.links.twitter}
           className="rounded-2xl bg-muted px-4 py-1.5 text-sm font-medium"
           target="_blank"
         >
