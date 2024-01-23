@@ -67,7 +67,7 @@ export default function Home() {
 
             <h3 className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
               Over the last 5 years, I&apos;ve empowered 6+ companies.
-              <span className="hidden max-w-[39rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
+              <span className="max-w-[39rem] leading-normal text-muted-foreground sm:text-xl sm:leading-10 md:block">
                 Developing user-centric interfaces, creating REST services, process automation and software testing.
               </span>
             </h3>
