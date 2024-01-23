@@ -13,16 +13,19 @@ export default function Experience() {
             <div className="relative bg-gray-800 overflow-hidden rounded-3xl border-[1px] border-light-card-border bg-light-card-bg p-6 transition duration-300 dark:border-card-border dark:bg-onyx dark:hover:border-[#383737]  lg:p-16 lg:pe-0">
               <div className="flex h-full w-full flex-col gap-4">
                 <a target="_blank" className="card-medium" href="https://lumu.io/">
-                  <Image alt="Subbi Icon" width="100" height="100" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
+                  <Image alt="Subbi Icon" width="100" height="100" data-nimg="1"
+                    className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="./images/lumu.png" />
                 </a>
-                <p className="text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
-                  Software Development Engineer in Test
-                </p>
-                <p className="flex-1 text-dark-gray">
-                  Responsible for ensuring product quality through the implementation of automated test scripts,
-                  making use of tools such as Serenity BDD, Postman, JMeter and Test-Junkie.
-                </p>
+            
+                  <p className="my-4 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
+                    Software Development Engineer in Test
+                  </p>
+                  <p className="flex-1 text-dark-gray">
+                    Responsible for ensuring product quality through the implementation of automated test scripts,
+                    making use of tools such as Serenity BDD, Postman, JMeter and Test-Junkie.
+                  </p>
+                
                 <span className="mt-1 block text-sm font-semibold">2023 - Present</span>
 
                 <a className="cursor-pointer rounded-lg items-center inline-flex font-medium group mt-6 justify-start gap-2 text-onyx transition dark:text-white lg:mt-0" target="_blank" href="https://lumu.io/">
@@ -42,7 +45,7 @@ export default function Experience() {
                   <Image alt="Subbi Icon" width="60" height="70" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="./images/habi.png" />
                 </a>
-                <p className="text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
+                <p className="my-7 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
                   Software Development Engineer in Test
                 </p>
                 <p className="flex-1 text-dark-gray">
@@ -90,7 +93,7 @@ export default function Experience() {
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="https://eyw9wtr7qk5.exactdn.com/wp-content/uploads/2021/08/logo-puntored-blanco.svg" />
                 </a>
-                <p className="text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
+                <p className="my-4 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
                   Test Automation Engineer
                 </p>
                 <p className="flex-1 text-dark-gray">
@@ -133,7 +136,7 @@ export default function Experience() {
                   <Image alt="Subbi Icon" width="150" height="100" decoding="async" data-nimg="1" className="absolute py-2 inset-y-0  transition duration-300 ease-out hover:rotate-[-6.21deg] hover:scale-110"
                     src="https://www.evertecinc.com/wp-content/uploads/2020/07/logo-evertec-footer.png" />
                 </a>
-                <p className="text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
+                <p className="my-4 text-xl font-extrabold text-onyx dark:text-white lg:text-3xl">
                   Junior Software Testing Analyst
                 </p>
                 <p className="flex-1 text-dark-gray">

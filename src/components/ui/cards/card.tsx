@@ -17,7 +17,7 @@ export const Card = ({ pathImage, title, category, href }: Props) => {
                     <Image width={100} height={100} alt={title} src={pathImage} />
                 </picture>
 
-                <Arrow />
+                <Arrow /> 
 
                 <div className="relative flex flex-1 items-center justify-between md:absolute md:inset-x-6 md:bottom-6">
                     <p className="text-base font-semibold text-onyx dark:text-white md:text-xl">
