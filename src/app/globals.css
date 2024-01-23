@@ -14,7 +14,7 @@
   }
 
   .menu {
-    @apply text-center bg-gray-800;
+    @apply text-center;
   }
 }
 
@@ -24,7 +24,7 @@
   }
 
   .menu {
-    @apply text-center bg-gray-800;
+    @apply text-center;
   }
 }
 
@@ -34,7 +34,7 @@
   }
 
   .menu {
-    @apply text-center bg-gray-800;
+    @apply text-center;
   }
 }
 
@@ -44,7 +44,7 @@
   }
 
   .menu {
-    @apply text-center bg-gray-800;
+    @apply text-center ;
   }
 }
 
