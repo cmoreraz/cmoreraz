@@ -149,7 +149,7 @@ export default function Experience() {
                   Creation of an automated test script to validate the stability of test environments, reducing 30 hours of manual testing.
                 </p>
                 <p className="flex-1 text-dark-gray">
-                  I implemented a repository containing database queries in the SQL Server tool, increasing the team's productivity by 5%.
+                  I implemented a repository containing database queries in the SQL Server tool, increasing the team&apos;s productivity by 5%.
                 </p>
                 <p className="flex-1 text-dark-gray">
                   Design and implementation of a knowledge base and training in SharePoint for new members of the quality team, optimizing the learning curve by 60%.
