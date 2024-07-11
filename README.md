@@ -32,6 +32,22 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/></a>
 </p>
 
+#### Infrastructure
+
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="90" height="50" alt="Git" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="90" height="50" alt="Docker" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="90" height="50" alt="Linux" /></a>
+</p>
+
+#### Cloud
+
+<p align="left">
+<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="90" height="50"/></a>
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="90" height="50" alt="Digital Ocean" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="90" height="50" alt="Google Cloud" /></a>
+</p>
+
 #### Test automation
 <p align="left">
 <a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/9455201?s=48&v=4" alt="Serenity BDD" title="Serenity BDD" width="36" height="36" /></a>
@@ -43,8 +59,6 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 #### Tools
 <p align="left">
 <a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="36" height="36"/></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logo@2x.png" title="Git" **alt="Git" width="50" height="36"/></a>
-<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="90" height="50"/></a>
 <a href="https://www.atlassian.com/" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:616e6748-ad8c-48d9-ae93-e49019ed5259/Atlassian-horizontal-blue-rgb.svg?cdnVersion=1207" title="Jira" **alt="Jira" width="150" height="36"/></a>
 </p>
 
@@ -52,22 +66,6 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 <p align="left"> <a href="https://github.com/cmoreraz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://www.instagram.com/andres.morera/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/cmoreraz/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
-### Technical testing
-* 🚀 [Technical testing automation of tests](https://github.com/cmoreraz/technical-testing-automation-of-tests)
-  
-### Courses
-Sección en construcción 
-
-* 🪄 Como mejorar la expresion de tus ideas
-
-* 🚀 La automatización de pruebas es codificación, y para tener confianza en la automatización de pruebas, debe dominar el lenguaje que elija. Este curso le enseñará todo lo que necesita saber para escribir código de automatización de pruebas con confianza y fluidez para cualquier dominio.
- [Java para automatizadores de pruebas](https://tuvecindad.co)
-
- * 🚀  Desbloquee el poder de Serenity BDD para escribir pruebas automatizadas más limpias y sostenibles para aplicaciones web. Este curso lo guía a través de Serenity BDD, una biblioteca de código abierto que reduce a la mitad su base de código de prueba. Agilice su proceso de prueba, reduzca el código.
-
-  * 🚀 Prueba de API REST con Serenity BDD y RestAsured
-Aprenda a probar los servicios web en Java con este curso simple y paso a paso.
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cmoreraz&theme=dark&hide_border=true)](https://git.io/streak-stats)
