@@ -8,7 +8,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [camoreraz@gmail.com](mailto:camoreraz@gmail.com)
-* 🚀  I'm currently working at [Carti](https://carti.com.co)
+* 🚀  I'm currently working at [Carti](https://www.carti.com.co)
 * 🧠  I'm learning Data Engineering and Machine Learning in Python
 * ⚡  My slogan? 🌍 Personal branding is what they say about you when you leave the salon. 🌍
 
