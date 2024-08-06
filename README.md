@@ -7,8 +7,8 @@ Meet me in here to know what i'm into 🍕
 I’m currently studying Computer Science. I think this has been my greatest experience in life. Go on and do it! I have Backend Developer Experience and I'm working as Software Engineer and Test Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36"> 
 
 * 🌍  I'm based in Bogota, Colombia
-* ✉️  You can contact me at [cristian.morera89@gmail.com](mailto:cristian.morera89@gmail.com)
-* 🚀  I'm currently working at [lumu technologies](https://lumu.io)
+* ✉️  You can contact me at [camoreraz@gmail.com](mailto:camoreraz@gmail.com)
+* 🚀  I'm currently working at [Carti](https://carti.com.co)
 * 🧠  I'm learning Data Engineering and Machine Learning in Python
 * ⚡  My slogan? 🌍 Personal branding is what they say about you when you leave the salon. 🌍
 
